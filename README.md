@@ -12,7 +12,7 @@
   
    
 ### 🌹 *Hyeonji Kim*
-  ☁️ <I>[portfolio](https://www.notion.so/tngusmiso/fd824605fe6045d6928369a7d8cadcd4)  </I> ☁️ <I>[github](https://www.github.com/Hyeonji-14) </I>
+  ☁️ <I>[portfolio](https://hyeonji14.notion.site/95a8fc457a2d48c1a39343cfd74a013e)  </I> ☁️ <I>[github](https://www.github.com/Hyeonji-14) </I>
    
 
  | <a href="https://github.com/Hyeonji-14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hyeonji-14&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | </a><a href="https://github.com/Hyeonji-14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonji-14&layout=compact&theme=buefy&hide_border=true" /></a> |
